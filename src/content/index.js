@@ -135,3 +135,45 @@ export const faq = [
         "Our platform offers unparalleled flexibility, high-speed CDN, and robust security features. Additionally, our user-friendly interface ensures a seamless experience for every user.",
     }
 ]  
+export const testimonials = [
+  {
+    id: "0",
+    name: "Adria Arjona",
+    role: "Globalnomads",
+    avatarUrl: "/images/testimonials/jessica-saunders.png",
+    comment:
+      "CloudSpark's support team is amazing! They're always quick to help and truly feel like an extension of our own team.",
+  },
+  {
+    id: "1",
+    name: "Liam Chen",
+    role: "Techworks Inc.",
+    avatarUrl: "/images/testimonials/liam-chen.png",
+    comment:
+      "CloudSpark helped us scale without a hitch. The tools are user-friendly and have brought real efficiency to our workflows.",
+  },
+  {
+    id: "2",
+    name: "Priya Desai",
+    role: "Inventiv Solutions",
+    avatarUrl: "/images/testimonials/priya-desai.png",
+    comment:
+      "CloudSpark made cloud management so simple! Their platform is intuitive, and I always feel supported when I need it.",
+  },
+  {
+    id: "3",
+    name: "Carlos Alvarez",
+    role: "Brightway Analytics",
+    avatarUrl: "/images/testimonials/carlos-alvarez.png",
+    comment:
+      "I trust CloudSpark for our data needs. Their security and reliability give us peace of mind, which is invaluable to us.",
+  },
+  {
+    id: "4",
+    name: "Amelia Collins",
+    role: "BlueSky Innovations",
+    avatarUrl: "/images/testimonials/amelia-collins.png",
+    comment:
+      "Switching to CloudSpark has been a game-changer! It’s the best decision we made for our cloud infrastructure.",
+  },
+];
