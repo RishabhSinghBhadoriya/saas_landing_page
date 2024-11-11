@@ -102,7 +102,7 @@ export const faq = [
       id: "4",
       question: "What happens if I exceed my usage limits?",
       answer:
-        "If you exceed usage limits, you’ll be notified immediately. You can choose to upgrade to a higher plan or purchase additional resources as needed.",
+        "If you exceed usage limits, you'll be notified immediately. You can choose to upgrade to a higher plan or purchase additional resources as needed.",
     },
     {
       id: "5",
@@ -140,40 +140,32 @@ export const testimonials = [
     id: "0",
     name: "Adria Arjona",
     role: "Globalnomads",
-    avatarUrl: "/images/testimonials/jessica-saunders.png",
+    avatarUrl: "https://i.pinimg.com/736x/c7/b5/1c/c7b51c47c4272be8e0bb1e9a3edf0a24.jpg",
     comment:
       "CloudSpark's support team is amazing! They're always quick to help and truly feel like an extension of our own team.",
   },
   {
     id: "1",
-    name: "Liam Chen",
-    role: "Techworks Inc.",
-    avatarUrl: "/images/testimonials/liam-chen.png",
-    comment:
-      "CloudSpark helped us scale without a hitch. The tools are user-friendly and have brought real efficiency to our workflows.",
-  },
-  {
-    id: "2",
     name: "Priya Desai",
     role: "Inventiv Solutions",
-    avatarUrl: "/images/testimonials/priya-desai.png",
+    avatarUrl: "https://images.unsplash.com/photo-1678802013089-574e360074d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODZ8fHdvbWFuJTIwcG9ydHJhaXR8ZW58MHx8MHx8fDA%3D",
     comment:
       "CloudSpark made cloud management so simple! Their platform is intuitive, and I always feel supported when I need it.",
   },
   {
-    id: "3",
+    id: "2",
     name: "Carlos Alvarez",
     role: "Brightway Analytics",
-    avatarUrl: "/images/testimonials/carlos-alvarez.png",
+    avatarUrl: "https://images.unsplash.com/photo-1652471943570-f3590a4e52ed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJ1c2luZXNzJTIwbWFufGVufDB8fDB8fHww",
     comment:
       "I trust CloudSpark for our data needs. Their security and reliability give us peace of mind, which is invaluable to us.",
   },
   {
-    id: "4",
+    id: "3",
     name: "Amelia Collins",
     role: "BlueSky Innovations",
-    avatarUrl: "/images/testimonials/amelia-collins.png",
+    avatarUrl: "https://images.unsplash.com/photo-1661955657913-510565d33ba2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI0fHxidXNpbmVzcyUyMHdvbWFufGVufDB8fDB8fHww",
     comment:
-      "Switching to CloudSpark has been a game-changer! It’s the best decision we made for our cloud infrastructure.",
+      "Switching to CloudSpark has been a game-changer! It's the best decision we made for our cloud infrastructure.",
   },
 ];

@@ -9,7 +9,7 @@ export const TestItems=({item,containerClassName})=>{
         </blockquote>
         <div className="flex items-center max-xl:-mr-8">
             <div className="mr-4 size-20 shrink-0 rounded-half border-2 border-s2 p-1.5">
-                <img src={item.avatarUrl} alt={item.name} className="size-full object-cover"/>
+                <img src={item.avatarUrl} alt={item.name} className="size-full object-cover rounded-half"/>
             </div>
             <div className="">
                 <h4 className="body-2 mb-0.5 text-p1">
